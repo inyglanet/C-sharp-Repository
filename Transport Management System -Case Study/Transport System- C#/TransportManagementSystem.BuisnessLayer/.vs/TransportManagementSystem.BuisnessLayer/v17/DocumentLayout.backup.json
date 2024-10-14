@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\transportmanagementsystem.buisnesslayer\\repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|solutionrelative:repository\\triprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\transportmanagementsystem.buisnesslayer\\repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|solutionrelative:repository\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\transportmanagementsystem.buisnesslayer\\services\\itripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|solutionrelative:services\\itripservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\transportmanagementsystem.buisnesslayer\\repository\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|solutionrelative:repository\\driverrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\transportmanagementsystem.buisnesslayer\\repository\\vehiclerepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12DAC79A-0678-4862-A78B-B24E2F63E69F}|TransportManagementSystem.BuisnessLayer.csproj|solutionrelative:repository\\vehiclerepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TripRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Repository\\TripRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TripRepository.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Repository\\TripRepository.cs*",
+              "RelativeToolTip": "Repository\\TripRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:49:45.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITripService.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Services\\ITripService.cs",
+              "RelativeDocumentMoniker": "Services\\ITripService.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Services\\ITripService.cs",
+              "RelativeToolTip": "Services\\ITripService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:43:55.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Repository\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BookingRepository.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Repository\\BookingRepository.cs*",
+              "RelativeToolTip": "Repository\\BookingRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:32:36.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Repository\\DriverRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\DriverRepository.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Repository\\DriverRepository.cs",
+              "RelativeToolTip": "Repository\\DriverRepository.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:26:11.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleRepositoy.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Repository\\VehicleRepositoy.cs",
+              "RelativeDocumentMoniker": "Repository\\VehicleRepositoy.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.BuisnessLayer\\Repository\\VehicleRepositoy.cs",
+              "RelativeToolTip": "Repository\\VehicleRepositoy.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T15:29:37.013Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

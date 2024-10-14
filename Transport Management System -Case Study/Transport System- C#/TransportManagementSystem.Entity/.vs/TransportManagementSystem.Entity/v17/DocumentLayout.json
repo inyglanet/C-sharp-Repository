@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|c:\\users\\elcot\\source\\repos\\transportmanagementsystem.entity\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|solutionrelative:booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|solutionrelative:passengers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|solutionrelative:driver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\trips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|solutionrelative:trips.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555E2811-7B5B-4C86-9BD0-89B0D408B91D}|TransportManagementSystem.Entity.csproj|solutionrelative:routes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Booking.cs",
+              "RelativeDocumentMoniker": "Booking.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Booking.cs",
+              "RelativeToolTip": "Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:18:05.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Driver.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Driver.cs",
+              "RelativeDocumentMoniker": "Driver.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Driver.cs",
+              "RelativeToolTip": "Driver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:52:29.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Passengers.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Passengers.cs",
+              "RelativeDocumentMoniker": "Passengers.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Passengers.cs",
+              "RelativeToolTip": "Passengers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:51:13.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trips.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Trips.cs",
+              "RelativeDocumentMoniker": "Trips.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Trips.cs",
+              "RelativeToolTip": "Trips.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:37:53.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Routes.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Routes.cs",
+              "RelativeDocumentMoniker": "Routes.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Routes.cs",
+              "RelativeToolTip": "Routes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:34:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Vehicle.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\TransportManagementSystem.Entity\\Vehicle.cs",
+              "RelativeToolTip": "Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T06:37:43.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

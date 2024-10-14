@@ -1,0 +1,2 @@
+C:\Users\ELCOT\source\repos\TransportManagementSystem_Testing\obj\Debug\TransportManagementSystem_Testing.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\TransportManagementSystem_Testing\obj\Debug\TransportManagementSystem_Testing.csproj.CoreCompileInputs.cache

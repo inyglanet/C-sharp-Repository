@@ -1,0 +1,17 @@
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.UI.exe.config
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.UI.exe
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.UI.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.BuisnessLayer.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.Entity.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.Exceptions.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.Util.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.BuisnessLayer.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.Entity.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.Exceptions.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.Util.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\bin\Debug\TransportManagementSystem.Util.dll.config
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\obj\Debug\TransportManagementSystem.UI.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\obj\Debug\TransportManagementSystem.UI.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\obj\Debug\Transpor.ED4A7258.Up2Date
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\obj\Debug\TransportManagementSystem.UI.exe
+C:\Users\ELCOT\source\repos\TransportManagementSystem.UI\obj\Debug\TransportManagementSystem.UI.pdb

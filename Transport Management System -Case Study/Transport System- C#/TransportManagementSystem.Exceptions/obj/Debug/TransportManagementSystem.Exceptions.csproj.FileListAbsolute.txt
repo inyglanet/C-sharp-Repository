@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Exceptions\bin\Debug\TransportManagementSystem.Exceptions.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Exceptions\bin\Debug\TransportManagementSystem.Exceptions.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Exceptions\obj\Debug\TransportManagementSystem.Exceptions.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Exceptions\obj\Debug\TransportManagementSystem.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Exceptions\obj\Debug\TransportManagementSystem.Exceptions.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Exceptions\obj\Debug\TransportManagementSystem.Exceptions.pdb

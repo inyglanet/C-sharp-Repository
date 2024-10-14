@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Entity\bin\Debug\TransportManagementSystem.Entity.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Entity\bin\Debug\TransportManagementSystem.Entity.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Entity\obj\Debug\TransportManagementSystem.Entity.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Entity\obj\Debug\TransportManagementSystem.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Entity\obj\Debug\TransportManagementSystem.Entity.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.Entity\obj\Debug\TransportManagementSystem.Entity.pdb

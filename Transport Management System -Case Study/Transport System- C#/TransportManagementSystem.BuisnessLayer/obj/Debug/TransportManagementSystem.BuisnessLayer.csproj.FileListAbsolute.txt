@@ -1,0 +1,14 @@
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\bin\Debug\TransportManagementSystem.BuisnessLayer.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\bin\Debug\TransportManagementSystem.BuisnessLayer.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\bin\Debug\TransportManagementSystem.Entity.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\bin\Debug\TransportManagementSystem.Entity.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\obj\Debug\TransportManagementSystem.BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\obj\Debug\TransportManagementSystem.BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\obj\Debug\Transpor.D7994CB4.Up2Date
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\obj\Debug\TransportManagementSystem.BuisnessLayer.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\obj\Debug\TransportManagementSystem.BuisnessLayer.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\bin\Debug\TransportManagementSystem.Exceptions.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\bin\Debug\TransportManagementSystem.Util.dll
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\bin\Debug\TransportManagementSystem.Exceptions.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\bin\Debug\TransportManagementSystem.Util.pdb
+C:\Users\ELCOT\source\repos\TransportManagementSystem.BuisnessLayer\bin\Debug\TransportManagementSystem.Util.dll.config
