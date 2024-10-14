@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\OrderConfirmationMail\bin\Debug\OrderConfirmationMail.exe.config
+C:\Users\ELCOT\source\repos\OrderConfirmationMail\bin\Debug\OrderConfirmationMail.exe
+C:\Users\ELCOT\source\repos\OrderConfirmationMail\bin\Debug\OrderConfirmationMail.pdb
+C:\Users\ELCOT\source\repos\OrderConfirmationMail\obj\Debug\OrderConfirmationMail.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\OrderConfirmationMail\obj\Debug\OrderConfirmationMail.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\OrderConfirmationMail\obj\Debug\OrderConfirmationMail.exe
+C:\Users\ELCOT\source\repos\OrderConfirmationMail\obj\Debug\OrderConfirmationMail.pdb

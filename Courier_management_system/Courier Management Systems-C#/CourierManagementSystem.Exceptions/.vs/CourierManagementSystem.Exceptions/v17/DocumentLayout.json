@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.Exceptions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E7C09-84EC-43C6-8EAE-4304BAA7C563}|CourierManagementSystem.Exceptions.csproj|c:\\users\\elcot\\source\\repos\\couriermanagementsystem.exceptions\\trackingnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1E7C09-84EC-43C6-8EAE-4304BAA7C563}|CourierManagementSystem.Exceptions.csproj|solutionrelative:trackingnumbernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A1E7C09-84EC-43C6-8EAE-4304BAA7C563}|CourierManagementSystem.Exceptions.csproj|c:\\users\\elcot\\source\\repos\\couriermanagementsystem.exceptions\\invalidemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A1E7C09-84EC-43C6-8EAE-4304BAA7C563}|CourierManagementSystem.Exceptions.csproj|solutionrelative:invalidemployeeidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrackingNumberNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.Exceptions\\TrackingNumberNotFoundException.cs",
+              "RelativeDocumentMoniker": "TrackingNumberNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.Exceptions\\TrackingNumberNotFoundException.cs",
+              "RelativeToolTip": "TrackingNumberNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:18:32.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidEmployeeIdException.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.Exceptions\\InvalidEmployeeIdException.cs",
+              "RelativeDocumentMoniker": "InvalidEmployeeIdException.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.Exceptions\\InvalidEmployeeIdException.cs",
+              "RelativeToolTip": "InvalidEmployeeIdException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:53:47.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

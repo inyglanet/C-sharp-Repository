@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\TernaryPositiveNegative\TernaryPositiveNegative\bin\Debug\TernaryPositiveNegative.exe.config
+C:\Users\ELCOT\source\repos\TernaryPositiveNegative\TernaryPositiveNegative\bin\Debug\TernaryPositiveNegative.exe
+C:\Users\ELCOT\source\repos\TernaryPositiveNegative\TernaryPositiveNegative\bin\Debug\TernaryPositiveNegative.pdb
+C:\Users\ELCOT\source\repos\TernaryPositiveNegative\TernaryPositiveNegative\obj\Debug\TernaryPositiveNegative.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\TernaryPositiveNegative\TernaryPositiveNegative\obj\Debug\TernaryPositiveNegative.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\TernaryPositiveNegative\TernaryPositiveNegative\obj\Debug\TernaryPositiveNegative.exe
+C:\Users\ELCOT\source\repos\TernaryPositiveNegative\TernaryPositiveNegative\obj\Debug\TernaryPositiveNegative.pdb

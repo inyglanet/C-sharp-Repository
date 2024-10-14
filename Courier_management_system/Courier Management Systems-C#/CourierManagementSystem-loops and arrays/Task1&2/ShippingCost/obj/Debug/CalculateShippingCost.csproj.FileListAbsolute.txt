@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\CalculateShippingCost\bin\Debug\CalculateShippingCost.exe.config
+C:\Users\ELCOT\source\repos\CalculateShippingCost\bin\Debug\CalculateShippingCost.exe
+C:\Users\ELCOT\source\repos\CalculateShippingCost\bin\Debug\CalculateShippingCost.pdb
+C:\Users\ELCOT\source\repos\CalculateShippingCost\obj\Debug\CalculateShippingCost.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\CalculateShippingCost\obj\Debug\CalculateShippingCost.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\CalculateShippingCost\obj\Debug\CalculateShippingCost.exe
+C:\Users\ELCOT\source\repos\CalculateShippingCost\obj\Debug\CalculateShippingCost.pdb

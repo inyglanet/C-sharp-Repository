@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Exceptions\bin\Debug\CourierManagementSystem.Exceptions.dll
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Exceptions\bin\Debug\CourierManagementSystem.Exceptions.pdb
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Exceptions\obj\Debug\CourierManagementSystem.Exceptions.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Exceptions\obj\Debug\CourierManagementSystem.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Exceptions\obj\Debug\CourierManagementSystem.Exceptions.dll
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Exceptions\obj\Debug\CourierManagementSystem.Exceptions.pdb

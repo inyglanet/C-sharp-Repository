@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\DisplayOrderofCustomers\bin\Debug\DisplayOrderofCustomers.exe.config
+C:\Users\ELCOT\source\repos\DisplayOrderofCustomers\bin\Debug\DisplayOrderofCustomers.exe
+C:\Users\ELCOT\source\repos\DisplayOrderofCustomers\bin\Debug\DisplayOrderofCustomers.pdb
+C:\Users\ELCOT\source\repos\DisplayOrderofCustomers\obj\Debug\DisplayOrderofCustomers.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\DisplayOrderofCustomers\obj\Debug\DisplayOrderofCustomers.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\DisplayOrderofCustomers\obj\Debug\DisplayOrderofCustomers.exe
+C:\Users\ELCOT\source\repos\DisplayOrderofCustomers\obj\Debug\DisplayOrderofCustomers.pdb

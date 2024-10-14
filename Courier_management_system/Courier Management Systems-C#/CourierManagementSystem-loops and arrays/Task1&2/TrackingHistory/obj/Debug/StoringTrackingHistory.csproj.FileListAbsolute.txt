@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\StoringTrackingHistory\bin\Debug\StoringTrackingHistory.exe.config
+C:\Users\ELCOT\source\repos\StoringTrackingHistory\bin\Debug\StoringTrackingHistory.exe
+C:\Users\ELCOT\source\repos\StoringTrackingHistory\bin\Debug\StoringTrackingHistory.pdb
+C:\Users\ELCOT\source\repos\StoringTrackingHistory\obj\Debug\StoringTrackingHistory.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\StoringTrackingHistory\obj\Debug\StoringTrackingHistory.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\StoringTrackingHistory\obj\Debug\StoringTrackingHistory.exe
+C:\Users\ELCOT\source\repos\StoringTrackingHistory\obj\Debug\StoringTrackingHistory.pdb

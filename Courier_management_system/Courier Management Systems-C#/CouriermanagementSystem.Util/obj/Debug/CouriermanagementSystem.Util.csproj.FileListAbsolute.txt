@@ -1,0 +1,6 @@
+C:\Users\ELCOT\source\repos\CouriermanagementSystem.Util\bin\Debug\CouriermanagementSystem.Util.dll
+C:\Users\ELCOT\source\repos\CouriermanagementSystem.Util\bin\Debug\CouriermanagementSystem.Util.pdb
+C:\Users\ELCOT\source\repos\CouriermanagementSystem.Util\obj\Debug\CouriermanagementSystem.Util.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\CouriermanagementSystem.Util\obj\Debug\CouriermanagementSystem.Util.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\CouriermanagementSystem.Util\obj\Debug\CouriermanagementSystem.Util.dll
+C:\Users\ELCOT\source\repos\CouriermanagementSystem.Util\obj\Debug\CouriermanagementSystem.Util.pdb

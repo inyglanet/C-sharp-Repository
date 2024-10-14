@@ -1,0 +1,16 @@
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CourierServiceApp.exe.config
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CourierServiceApp.exe
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CourierServiceApp.pdb
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CourierManagementSystem.BuisnessLayer.dll
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CourierManagementSystem.Entities.dll
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CourierManagementSystem.Exceptions.dll
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CouriermanagementSystem.Util.dll
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CourierManagementSystem.BuisnessLayer.pdb
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CourierManagementSystem.Entities.pdb
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CourierManagementSystem.Exceptions.pdb
+C:\Users\ELCOT\source\repos\CourierServiceApp\bin\Debug\CouriermanagementSystem.Util.pdb
+C:\Users\ELCOT\source\repos\CourierServiceApp\obj\Debug\CourierServiceApp.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\CourierServiceApp\obj\Debug\CourierServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\CourierServiceApp\obj\Debug\CourierS.BC7627F2.Up2Date
+C:\Users\ELCOT\source\repos\CourierServiceApp\obj\Debug\CourierServiceApp.exe
+C:\Users\ELCOT\source\repos\CourierServiceApp\obj\Debug\CourierServiceApp.pdb

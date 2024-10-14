@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\FindingSimilarAddress\bin\Debug\FindingSimilarAddress.exe.config
+C:\Users\ELCOT\source\repos\FindingSimilarAddress\bin\Debug\FindingSimilarAddress.exe
+C:\Users\ELCOT\source\repos\FindingSimilarAddress\bin\Debug\FindingSimilarAddress.pdb
+C:\Users\ELCOT\source\repos\FindingSimilarAddress\obj\Debug\FindingSimilarAddress.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\FindingSimilarAddress\obj\Debug\FindingSimilarAddress.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\FindingSimilarAddress\obj\Debug\FindingSimilarAddress.exe
+C:\Users\ELCOT\source\repos\FindingSimilarAddress\obj\Debug\FindingSimilarAddress.pdb

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|solutionrelative:courier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|solutionrelative:employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|c:\\users\\elcot\\source\\couriermgmtsystems\\courier management systems\\couriermanagementsystem.entities\\couriercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|solutionrelative:couriercompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|solutionrelative:location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784C03D6-E4EA-400D-A7D1-F1C7CF5C9730}|CourierManagementSystem.Entities.csproj|solutionrelative:payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourierCompany.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\CourierCompany.cs",
+              "RelativeDocumentMoniker": "CourierCompany.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\CourierCompany.cs",
+              "RelativeToolTip": "CourierCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:50:43.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\Payments.cs",
+              "RelativeDocumentMoniker": "Payments.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\Payments.cs",
+              "RelativeToolTip": "Payments.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:18:26.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Courier.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\Courier.cs",
+              "RelativeDocumentMoniker": "Courier.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\Courier.cs",
+              "RelativeToolTip": "Courier.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:37:27.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\Location.cs",
+              "RelativeDocumentMoniker": "Location.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\Location.cs",
+              "RelativeToolTip": "Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:02:26.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\Employees.cs",
+              "RelativeDocumentMoniker": "Employees.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\Employees.cs",
+              "RelativeToolTip": "Employees.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T18:00:56.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\CourierMgmtSystems\\Courier Management Systems\\CourierManagementSystem.Entities\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:13:45.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

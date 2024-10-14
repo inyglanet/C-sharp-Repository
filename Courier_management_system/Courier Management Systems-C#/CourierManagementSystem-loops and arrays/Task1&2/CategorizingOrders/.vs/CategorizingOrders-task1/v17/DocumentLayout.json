@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\repos\\CategorizingOrders-task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1699FCD-627D-4A02-BC7F-D2A50E709EA9}|CategorizingOrders-task1.csproj|c:\\users\\elcot\\source\\repos\\categorizingorders-task1\\ordercategorizing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1699FCD-627D-4A02-BC7F-D2A50E709EA9}|CategorizingOrders-task1.csproj|solutionrelative:ordercategorizing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderCategorizing.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\CategorizingOrders-task1\\OrderCategorizing.cs",
+              "RelativeDocumentMoniker": "OrderCategorizing.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\CategorizingOrders-task1\\OrderCategorizing.cs",
+              "RelativeToolTip": "OrderCategorizing.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:51:38.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

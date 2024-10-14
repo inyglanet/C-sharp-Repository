@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\couriermanagementsystem.buisnesslayer\\repository\\courierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|solutionrelative:repository\\courierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\couriermanagementsystem.buisnesslayer\\repository\\courieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|solutionrelative:repository\\courieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\couriermanagementsystem.buisnesslayer\\repository\\courieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|solutionrelative:repository\\courieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\couriermanagementsystem.buisnesslayer\\services\\icourieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|solutionrelative:services\\icourieruserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|c:\\users\\elcot\\source\\repos\\couriermanagementsystem.buisnesslayer\\services\\icourieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3F84D55-0D02-4977-901E-3CA86E0DF1E7}|CourierManagementSystem.BuisnessLayer.csproj|solutionrelative:services\\icourieradminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourierService.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Repository\\CourierService.cs",
+              "RelativeDocumentMoniker": "Repository\\CourierService.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Repository\\CourierService.cs*",
+              "RelativeToolTip": "Repository\\CourierService.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:09:05.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourierAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Repository\\CourierAdminService.cs",
+              "RelativeDocumentMoniker": "Repository\\CourierAdminService.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Repository\\CourierAdminService.cs",
+              "RelativeToolTip": "Repository\\CourierAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:21:41.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourierUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Repository\\CourierUserService.cs",
+              "RelativeDocumentMoniker": "Repository\\CourierUserService.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Repository\\CourierUserService.cs",
+              "RelativeToolTip": "Repository\\CourierUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:21:24.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICourierAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Services\\ICourierAdminService.cs",
+              "RelativeDocumentMoniker": "Services\\ICourierAdminService.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Services\\ICourierAdminService.cs",
+              "RelativeToolTip": "Services\\ICourierAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:18:26.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICourierUserService.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Services\\ICourierUserService.cs",
+              "RelativeDocumentMoniker": "Services\\ICourierUserService.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\CourierManagementSystem.BuisnessLayer\\Services\\ICourierUserService.cs",
+              "RelativeToolTip": "Services\\ICourierUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:18:05.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

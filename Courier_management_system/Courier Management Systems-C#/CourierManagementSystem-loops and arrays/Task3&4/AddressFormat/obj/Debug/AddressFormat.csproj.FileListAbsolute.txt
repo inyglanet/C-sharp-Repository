@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\AddressFormatting_task4\bin\Debug\AddressFormatting_task4.exe.config
+C:\Users\ELCOT\source\repos\AddressFormatting_task4\bin\Debug\AddressFormatting_task4.exe
+C:\Users\ELCOT\source\repos\AddressFormatting_task4\bin\Debug\AddressFormatting_task4.pdb
+C:\Users\ELCOT\source\repos\AddressFormatting_task4\obj\Debug\AddressFormatting_task4.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\AddressFormatting_task4\obj\Debug\AddressFormatting_task4.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\AddressFormatting_task4\obj\Debug\AddressFormatting_task4.exe
+C:\Users\ELCOT\source\repos\AddressFormatting_task4\obj\Debug\AddressFormatting_task4.pdb

@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\CategorizingOrders-task1\bin\Debug\CategorizingOrders-task1.exe.config
+C:\Users\ELCOT\source\repos\CategorizingOrders-task1\bin\Debug\CategorizingOrders-task1.exe
+C:\Users\ELCOT\source\repos\CategorizingOrders-task1\bin\Debug\CategorizingOrders-task1.pdb
+C:\Users\ELCOT\source\repos\CategorizingOrders-task1\obj\Debug\CategorizingOrders-task1.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\CategorizingOrders-task1\obj\Debug\CategorizingOrders-task1.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\CategorizingOrders-task1\obj\Debug\CategorizingOrders-task1.exe
+C:\Users\ELCOT\source\repos\CategorizingOrders-task1\obj\Debug\CategorizingOrders-task1.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ELCOT\\source\\repos\\CalculateShippingCost\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6795839E-E97A-4E39-A799-DCF94BD32B69}|CalculateShippingCost.csproj|c:\\users\\elcot\\source\\repos\\calculateshippingcost\\shippingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6795839E-E97A-4E39-A799-DCF94BD32B69}|CalculateShippingCost.csproj|solutionrelative:shippingcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShippingCost.cs",
+              "DocumentMoniker": "C:\\Users\\ELCOT\\source\\repos\\CalculateShippingCost\\ShippingCost.cs",
+              "RelativeDocumentMoniker": "ShippingCost.cs",
+              "ToolTip": "C:\\Users\\ELCOT\\source\\repos\\CalculateShippingCost\\ShippingCost.cs",
+              "RelativeToolTip": "ShippingCost.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:33:59.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

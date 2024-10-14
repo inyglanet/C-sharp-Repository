@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\CheckOrderStatus\bin\Debug\CheckOrderStatus.exe.config
+C:\Users\ELCOT\source\repos\CheckOrderStatus\bin\Debug\CheckOrderStatus.exe
+C:\Users\ELCOT\source\repos\CheckOrderStatus\bin\Debug\CheckOrderStatus.pdb
+C:\Users\ELCOT\source\repos\CheckOrderStatus\obj\Debug\CheckOrderStatus.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\CheckOrderStatus\obj\Debug\CheckOrderStatus.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\CheckOrderStatus\obj\Debug\CheckOrderStatus.exe
+C:\Users\ELCOT\source\repos\CheckOrderStatus\obj\Debug\CheckOrderStatus.pdb

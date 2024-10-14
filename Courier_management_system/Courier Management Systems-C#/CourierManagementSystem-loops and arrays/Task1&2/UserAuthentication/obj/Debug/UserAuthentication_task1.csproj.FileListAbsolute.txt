@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\UserAuthentication_task1\bin\Debug\UserAuthentication_task1.exe.config
+C:\Users\ELCOT\source\repos\UserAuthentication_task1\bin\Debug\UserAuthentication_task1.exe
+C:\Users\ELCOT\source\repos\UserAuthentication_task1\bin\Debug\UserAuthentication_task1.pdb
+C:\Users\ELCOT\source\repos\UserAuthentication_task1\obj\Debug\UserAuthentication_task1.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\UserAuthentication_task1\obj\Debug\UserAuthentication_task1.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\UserAuthentication_task1\obj\Debug\UserAuthentication_task1.exe
+C:\Users\ELCOT\source\repos\UserAuthentication_task1\obj\Debug\UserAuthentication_task1.pdb

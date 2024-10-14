@@ -1,0 +1,13 @@
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\bin\Debug\CourierManagementSystem.BuisnessLayer.dll
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\bin\Debug\CourierManagementSystem.BuisnessLayer.pdb
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\bin\Debug\CourierManagementSystem.Entities.dll
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\bin\Debug\CourierManagementSystem.Entities.pdb
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\obj\Debug\CourierManagementSystem.BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\obj\Debug\CourierManagementSystem.BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\obj\Debug\CourierM.6307D206.Up2Date
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\obj\Debug\CourierManagementSystem.BuisnessLayer.dll
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\obj\Debug\CourierManagementSystem.BuisnessLayer.pdb
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\bin\Debug\CourierManagementSystem.Exceptions.dll
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\bin\Debug\CourierManagementSystem.Exceptions.pdb
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\bin\Debug\CouriermanagementSystem.Util.dll
+C:\Users\ELCOT\source\repos\CourierManagementSystem.BuisnessLayer\bin\Debug\CouriermanagementSystem.Util.pdb

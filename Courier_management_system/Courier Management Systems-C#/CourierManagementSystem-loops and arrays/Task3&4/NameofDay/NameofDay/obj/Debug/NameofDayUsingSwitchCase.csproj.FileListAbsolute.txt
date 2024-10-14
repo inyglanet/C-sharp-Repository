@@ -1,0 +1,7 @@
+C:\Users\ELCOT\source\repos\NameofDayUsingSwitchCase\NameofDayUsingSwitchCase\bin\Debug\NameofDayUsingSwitchCase.exe.config
+C:\Users\ELCOT\source\repos\NameofDayUsingSwitchCase\NameofDayUsingSwitchCase\bin\Debug\NameofDayUsingSwitchCase.exe
+C:\Users\ELCOT\source\repos\NameofDayUsingSwitchCase\NameofDayUsingSwitchCase\bin\Debug\NameofDayUsingSwitchCase.pdb
+C:\Users\ELCOT\source\repos\NameofDayUsingSwitchCase\NameofDayUsingSwitchCase\obj\Debug\NameofDayUsingSwitchCase.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\NameofDayUsingSwitchCase\NameofDayUsingSwitchCase\obj\Debug\NameofDayUsingSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\NameofDayUsingSwitchCase\NameofDayUsingSwitchCase\obj\Debug\NameofDayUsingSwitchCase.exe
+C:\Users\ELCOT\source\repos\NameofDayUsingSwitchCase\NameofDayUsingSwitchCase\obj\Debug\NameofDayUsingSwitchCase.pdb

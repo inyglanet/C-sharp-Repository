@@ -1,0 +1,12 @@
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Entities\bin\Debug\CourierManagementSystem.Entities.dll
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Entities\bin\Debug\CourierManagementSystem.Entities.pdb
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Entities\obj\Debug\CourierManagementSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Entities\obj\Debug\CourierManagementSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Entities\obj\Debug\CourierManagementSystem.Entities.dll
+C:\Users\ELCOT\source\repos\CourierManagementSystem.Entities\obj\Debug\CourierManagementSystem.Entities.pdb
+C:\Users\ELCOT\source\CourierMgmtSystems\Courier Management Systems\CourierManagementSystem.Entities\bin\Debug\CourierManagementSystem.Entities.dll
+C:\Users\ELCOT\source\CourierMgmtSystems\Courier Management Systems\CourierManagementSystem.Entities\bin\Debug\CourierManagementSystem.Entities.pdb
+C:\Users\ELCOT\source\CourierMgmtSystems\Courier Management Systems\CourierManagementSystem.Entities\obj\Debug\CourierManagementSystem.Entities.csproj.AssemblyReference.cache
+C:\Users\ELCOT\source\CourierMgmtSystems\Courier Management Systems\CourierManagementSystem.Entities\obj\Debug\CourierManagementSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ELCOT\source\CourierMgmtSystems\Courier Management Systems\CourierManagementSystem.Entities\obj\Debug\CourierManagementSystem.Entities.dll
+C:\Users\ELCOT\source\CourierMgmtSystems\Courier Management Systems\CourierManagementSystem.Entities\obj\Debug\CourierManagementSystem.Entities.pdb
